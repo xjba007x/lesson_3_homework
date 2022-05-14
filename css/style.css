@@ -1,0 +1,39 @@
+
+
+span.name {
+	color: green;
+}
+
+.soderjanie, a {
+	color: blue;
+}
+._soderjanie, ._soderjanie a {
+	color: brown;
+}
+p {
+	color: rgb(165, 122, 42);
+}
+div > h2 {
+	color: blueviolet;
+}
+
+.selectall{
+	color: rgb(230, 32, 226);
+}
+
+div > h3{
+	color: rgb(79, 238, 135);
+}
+.all *{
+	color: brown;
+}
+.firstnext + *{
+	color: brown;
+}
+
+ol{
+	color: blueviolet;
+}
+.spisok {
+	color: grey;
+}
